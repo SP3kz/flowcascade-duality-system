@@ -1,3 +1,7 @@
+![Build](https://github.com/sp3kz/flowcascade-duality-system/actions/workflows/main.yml/badge.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+
 # FlowCascade: Duality Control System
 
 A recursive, duality-based AI orchestration engine that unfolds intelligent control through intentional surrender.
